@@ -1,0 +1,2 @@
+# Price-Tracker
+This project is a Myntra Price Tracker and Price Predictor that combines web scraping, WhatsApp notifications, and a price prediction model using machine learning. It is built to help users monitor price drops of their favorite products on Myntra and get predictions of future prices.
