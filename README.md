@@ -12,20 +12,7 @@ A smart price monitoring and prediction tool for Myntra, built with web scraping
 
 🧪 Test-Driven Setup – Includes testing scripts for environment configuration and WhatsApp integration.
 
-📁 Project Structure
-graphql
-Copy
-Edit
-myntra-tracker/
-├── .env                      # Stores environment variables securely
-├── main.py                  # Main script to run the project
-├── model.py                 # ML-based price prediction model
-├── myntra_price_predictor.py# ARIMA-based prediction logic
-├── scraper.py               # Scrapes product info from Myntra
-├── whatsapp.py              # Sends WhatsApp alerts via Twilio
-├── test_env.py              # Tests .env variable loading
-├── test_whatsapp.py         # Tests WhatsApp notification functionality
-├── requirements.txt         # All required dependencies
+
 ⚙️ Technologies Used
 Python 3.8+
 
